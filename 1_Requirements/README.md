@@ -1,10 +1,10 @@
-INTRODUCTION
+# INTRODUCTION
 
 
 Home automation systems have gained popularity in recent years, paralleling the advances in the concept of the Internet of Things. Home automation involves the monitoring and control of activities such as lighting, heating, ventilation, air conditioning (HVAC), electrical appliances, sound systems, security cameras, door locks, and alarms. Home automation has various advantages, such as comfort, increased security, and energy efficiency. This project helps the user to control all the electronic devices using his/her Smartphone. Time is a very valuable thing. Everybody wants to save time as much as they can. New technologies are being introduced to save our time. To save people’s time we are introducing Home Automation system using Bluetooth. With the help of this system, you can control your home appliances from your mobile phone. You can turn on/off your home appliances within the range of Bluetooth.
 
 
-FEATURES
+# FEATURES
 
 
 1 . With the help of this Home Automation system, you can control your home appliances from your mobile phone. You can turn on/off your home appliances within the range of Bluetooth.
@@ -12,65 +12,79 @@ FEATURES
 3. To save people’s time we are introducing Home Automation system using Bluetooth.
 
 
-4W’S and 1H
+# 4W’S and 1H
 
 
-WHAT?
+## WHAT?
 
 
 With the help of this system, you can control your home appliances from your mobile phone. You can turn on/off your home appliances within the range of Bluetooth.
 
 
-WHY?
+## WHY?
 
 
 New technologies are being introduced to save our time. To save people’s time we are introducing Home Automation system using Bluetooth.
 
 
-WHO?
+## WHO?
 
 
 The home automation system tends to reduce the power loss through smart switching of electrical appliances and thus increasing the overall efficiency.
 
 
-HOW?
+## HOW?
 
 
  Bluetooth module is interfaced to the Arduino board at the receiver end while on the transmitter end, a GUI application on the cell phone sends ON/OFF commands to the receiver where loads are connected. By touching the specified location on the GUI, the loads can be turned ON/OFF remotely through this technology.
  
  
-SWOT ANALYSIS
+# SWOT ANALYSIS
 
 
-STRENGTH:
+## STRENGTH:
 
 
 1.	New technologies are being introduced to save our time. To save people’s time we are introducing Home Automation system using Bluetooth.
 2.	system is super-cost effective
 
 
-WEAKNESS:
+## WEAKNESS:
 
 
 . Since we are using Bluetooth module that’s why there is area wise restrictions of the working of this project.
 
 
-OPPORTUNITY:
+## OPPORTUNITY:
 
 
 •	We should create an opportunity to make our product used by everyone by providing an awareness of this product at a larger scale.
 
 
-THREAT:
+## THREAT:
 
 
 •	There is a lot of competition in the market now a days as many companies are providing their own home automation systems
 
 
-REQUIREMENTS:
+# REQUIREMENTS:
 
 
-High level requirements:
+## High level requirements:
+
+
+| S.no | High level requirement | Description | Status |
+| :---:| :---: | :---: | ---: |
+| 1 | HLR1 |  Arduino Uno | Done |
+| 2 | HLR2 | Bluetooth Module HC05 | Done |
+| 3 | HLR3 | Channel relay | Done |
+
+## Low level requirements:
+| S.no | Low level requirements | Description | Status |
+| :---: | :---: | :---: | ---: |
+| 1 | LR1 | Simulide | Done |
+| 2 | LR2 | Gcc compiler | Done |
+| 3 | LR3 | Smartphone | Done |
 
 
 
