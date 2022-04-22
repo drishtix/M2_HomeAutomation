@@ -93,7 +93,8 @@ The home automation system tends to reduce the power loss through smart switchin
 # BLOCK DIAGRAM
 ![Block diagram](https://user-images.githubusercontent.com/101036090/164468054-1cc591a3-f410-4d59-b1d6-e7a2c3375f87.png)
 
-
+# Circuit Diagram
+![Circuit Diagram](https://user-images.githubusercontent.com/101036090/164468272-533e85fd-f36a-43e2-b209-7c7f54a153ca.png)
 
 
 
